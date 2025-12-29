@@ -1,6 +1,6 @@
 {
   "name": "@submontane-studio/sharp-image-optimizer",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "プロ仕様の画像一括変換ツール（sharp ベース）",
   "type": "module",
   "publishConfig": {
